@@ -1,0 +1,4 @@
+name: WuwQueue
+main: net.unix.wuwqueue.basic.QueuePlugin
+author: Unix
+version: 1.0
